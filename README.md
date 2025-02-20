@@ -1,4 +1,4 @@
-## Wifi_Hack
+## Wif-Hack
 ### Hack WIfi Using Termux! (Requires Root)
 
 <p align="center"><img src="https://i.ibb.co/K74g0SC/hulu.jpg"></p>
@@ -15,7 +15,7 @@ $ chmod +x wifi.py
 $ sudo python wifi.py --help
 ```
 
-#### Example : `sudo python wifi.py -i wlan0 -K`
+#### Example : `sudo python wifi-hack/wifi.py -i wlan0 -K`
 
 #### Note: 
 **First turn off your Wifi.**
